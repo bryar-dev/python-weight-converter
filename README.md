@@ -6,7 +6,6 @@ Features:
 
 * Converts kg to lbs
 * Converts lbs to kg
-* Accepts decimal values
 * Handles invalid unit inputs
 
 How It Works:
